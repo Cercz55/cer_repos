@@ -1,0 +1,445 @@
+
+Configuraci�n IP de Windows
+
+    edge.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : edge.microsoft.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 80
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : edge-microsoft-com.a-0016.a-msedge.net
+
+
+    Nombre de registro  . : edge-microsoft-com.a-0016.a-msedge.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 80
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : a-0016.a-msedge.net
+
+
+    Nombre de registro  . : a-0016.a-msedge.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 80
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 204.79.197.219
+
+
+    lolp0sae1.disp.vivox.com
+    ----------------------------------------
+    Nombre de registro  . : lolp0sae1.disp.vivox.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 26925
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 54.232.46.146
+
+
+    msedge.b.tlu.dl.delivery.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : msedge.b.tlu.dl.delivery.mp.microsoft.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 62
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : cdp-bg-tlu.trafficmanager.net
+
+
+    Nombre de registro  . : cdp-bg-tlu.trafficmanager.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 62
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : wildcardtlu.azureedge.net
+
+
+    Nombre de registro  . : wildcardtlu.azureedge.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 62
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : wildcardtlu.ec.azureedge.net
+
+
+    Nombre de registro  . : wildcardtlu.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 62
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 62
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    img-s-msn-com.akamaized.net
+    ----------------------------------------
+    Nombre de registro  . : img-s-msn-com.akamaized.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 1
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : a1834.dspg2.akamai.net
+
+
+    Nombre de registro  . : a1834.dspg2.akamai.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 1
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 189.247.198.154
+
+
+    Nombre de registro  . : a1834.dspg2.akamai.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 1
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 189.247.198.162
+
+
+    fp-vp.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vp.azureedge.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 322
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vp.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vp.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 322
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 322
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    desktop-8vfd7ov.mshome.net
+    ----------------------------------------
+    Nombre de registro  . : DESKTOP-8VFD7OV.mshome.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 507108
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 172.18.176.1
+
+
+    desktop-8vfd7ov.mshome.net
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    www.bing.com
+    ----------------------------------------
+    Nombre de registro  . : www.bing.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 9
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : a-0001.a-afdentry.net.trafficmanager.net
+
+
+    Nombre de registro  . : a-0001.a-afdentry.net.trafficmanager.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 9
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : dual-a-0001.a-msedge.net
+
+
+    Nombre de registro  . : dual-a-0001.a-msedge.net
+    Tipo de registro  . . : 28
+    Per�odo de vida . . . : 9
+    Longitud de datos . . : 16
+    Secci�n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2620:1ec:c11::200
+
+
+    www.bing.com
+    ----------------------------------------
+    Nombre de registro  . : www.bing.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 2
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : a-0001.a-afdentry.net.trafficmanager.net
+
+
+    Nombre de registro  . : a-0001.a-afdentry.net.trafficmanager.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 2
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : dual-a-0001.a-msedge.net
+
+
+    Nombre de registro  . : dual-a-0001.a-msedge.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 2
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 204.79.197.200
+
+
+    Nombre de registro  . : dual-a-0001.a-msedge.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 2
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 13.107.21.200
+
+
+    s.yimg.com
+    ----------------------------------------
+    Nombre de registro  . : s.yimg.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 29
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : edge.gycpi.b.yahoodns.net
+
+
+    Nombre de registro  . : edge.gycpi.b.yahoodns.net
+    Tipo de registro  . . : 28
+    Per�odo de vida . . . : 29
+    Longitud de datos . . : 16
+    Secci�n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2001:4998:28:800::4000
+
+
+    Nombre de registro  . : edge.gycpi.b.yahoodns.net
+    Tipo de registro  . . : 28
+    Per�odo de vida . . . : 29
+    Longitud de datos . . : 16
+    Secci�n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2001:4998:28:800::4001
+
+
+    asus.mshome.net
+    ----------------------------------------
+    Nombre de registro  . : asus.mshome.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 507108
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 172.23.128.1
+
+
+    asus.mshome.net
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    prod.la1.lol.riotgames.com
+    ----------------------------------------
+    Nombre de registro  . : prod.la1.lol.riotgames.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 1079
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 66.151.33.24
+
+
+    es.calcuworld.com
+    ----------------------------------------
+    Nombre de registro  . : es.calcuworld.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 78586
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : calcuworld.com
+
+
+    Nombre de registro  . : calcuworld.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 78586
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 176.31.126.30
+
+
+    metric-api.newrelic.com
+    ----------------------------------------
+    Nombre de registro  . : metric-api.newrelic.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 11
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : metric-api.newrelic.com.cdn.cloudflare.net
+
+
+    Nombre de registro  . : metric-api.newrelic.com.cdn.cloudflare.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 11
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 162.247.243.238
+
+
+    Nombre de registro  . : metric-api.newrelic.com.cdn.cloudflare.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 11
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 162.247.243.239
+
+
+    acs.leagueoflegends.com
+    ----------------------------------------
+    Nombre de registro  . : acs.leagueoflegends.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 60
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : acs.leagueoflegends.com.cdn.cloudflare.net
+
+
+    Nombre de registro  . : acs.leagueoflegends.com.cdn.cloudflare.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 60
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 104.18.97.33
+
+
+    Nombre de registro  . : acs.leagueoflegends.com.cdn.cloudflare.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 60
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 104.18.96.33
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : ocsp.digicert.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 3011
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 3011
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    amp.azure.net
+    ----------------------------------------
+    Nombre de registro  . : amp.azure.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 504
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : 160c1.wpc.azureedge.net
+
+
+    Nombre de registro  . : 160c1.wpc.azureedge.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 504
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs22.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs22.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 504
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 152.199.4.33
+
+
+    www.calcuworld.com
+    ----------------------------------------
+    Nombre de registro  . : www.calcuworld.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 28640
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : calcuworld.com
+
+
+    Nombre de registro  . : calcuworld.com
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 28640
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 176.31.126.30
+
+
+    1.176.18.172.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 1.176.18.172.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Per�odo de vida . . . : 507108
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro PTR. . . . . : DESKTOP-8VFD7OV.mshome.net
+
+
+    srtb.msn.com
+    ----------------------------------------
+    Nombre de registro  . : srtb.msn.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 73
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : www.msn.com
+
+
+    Nombre de registro  . : www.msn.com
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 73
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : www-msn-com.a-0003.a-msedge.net
+
+
+    Nombre de registro  . : www-msn-com.a-0003.a-msedge.net
+    Tipo de registro  . . : 5
+    Per�odo de vida . . . : 73
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro CNAME. . . . : a-0003.a-msedge.net
+
+
+    Nombre de registro  . : a-0003.a-msedge.net
+    Tipo de registro  . . : 1
+    Per�odo de vida . . . : 73
+    Longitud de datos . . : 4
+    Secci�n . . . . . . . : respuesta
+    Un registro (host). . : 204.79.197.203
+
+
+    1.128.23.172.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 1.128.23.172.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Per�odo de vida . . . : 507108
+    Longitud de datos . . : 8
+    Secci�n . . . . . . . : respuesta
+    Registro PTR. . . . . : asus.mshome.net
+
+
