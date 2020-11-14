@@ -1,0 +1,106 @@
+Hive (C:\Users\cer_g\Downloads\NTUSER.dat) is not dirty.
+----------------------------------------
+apppaths v.20200511
+(NTUSER.DAT,Software) Gets content of App Paths subkeys
+
+2020-09-24 14:21:04Z
+  kali.exe - C:\Program Files\WindowsApps\KaliLinux.54290C8133FEE_1.5.0.0_x64__ey8k8hqnwqnmg\kali.exe
+2020-09-12 14:08:42Z
+  idle3.8.exe - C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.8_3.8.1729.0_x64__qbz5n2kfra8p0\idle3.8.exe
+  pip3.8.exe - C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.8_3.8.1729.0_x64__qbz5n2kfra8p0\pip3.8.exe
+  python3.8.exe - C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.8_3.8.1729.0_x64__qbz5n2kfra8p0\python3.8.exe
+  pythonw3.8.exe - C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.8_3.8.1729.0_x64__qbz5n2kfra8p0\pythonw3.8.exe
+----------------------------------------
+
+OpenSavePidlMRU
+LastWrite time: 2020-10-19 19:44:35Z
+OpenSavePidlMRU\*
+LastWrite Time: Sat Nov 14 01:47:49 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\EXAMEN_2_CesarCruz.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\3_SEM\Mat Disc\EXAMEN_2_CesarCruz.pdf
+  My Computer\C:\Codes\py\HTTPuzzle.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\3_SEM\Mat Disc\LAB_2_CesarCruz.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\3_SEM\Cálculo Integral\Examen_2_CesarCruz.pdf
+  My Computer\CLSID_Desktop\Examen\pasos_AREAS.jpg
+  My Computer\CLSID_Desktop\Examen\dx_int.jpg
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\3_SEM\Top_Algebra\LAB_2_CesarCruz.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\3_SEM\Programa de Seguridad\TAREA_07_CesarCruz.pdf
+  My Computer\C:\Codes\py\beatiful_soup.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\3_SEM\Cálculo Integral\TAREA_Areas.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\League of Legends\Highlights\10-21_LA1-961152886_02.webm
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\3_SEM\Programacion_para_Ciberseguridad\Tareas\atbash_explicacion.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\3_SEM\Programacion_para_Ciberseguridad\py\cif_atbash.py
+  My Computer\C:\Codes\py\cif_atbash.py
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\EXAM_CesarCruz.docx
+  My Computer\CLSID_Desktop\ing.txt
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\ART.docx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\ubuntu-20.04.1-desktop-amd64.iso
+  My Computer\C:\Program Files (x86)\PUBGLite\Launcher.exe
+
+OpenSavePidlMRU\exe
+LastWrite Time: Mon Oct 19 19:45:11 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\Program Files (x86)\PUBGLite\Launcher.exe
+  My Computer\C:\Riot Games\League of Legends\LeagueClient.exe
+
+----------------------------------------
+logonstats v.20200517
+Gets contents of user's LogonStats key
+
+FirstLogonTime                     :  Thu Jul 02 20:26:26 2020
+FirstLogonTimeOnCurrentInstallation:  Thu Jul 02 20:26:26 2020
+----------------------------------------
+nation v.20200517
+(ntuser.dat) Gets region information from HKCU
+
+Nation Information Check
+Control Panel\International\Geo
+LastWrite time: 2020-07-02 20:19:33Z
+
+The Region value is : 166
+The Country Is: Mexico
+For more information please visit the link below:
+https://msdn.microsoft.com/en-us/library/aa723531.aspx
+----------------------------------------
+uninstall v.20200525
+(Software, NTUSER.DAT) Gets contents of Uninstall keys from Software, NTUSER.DAT hives
+
+Uninstall
+Software\Microsoft\Windows\CurrentVersion\Uninstall
+
+2020-11-11 17:28:36Z
+  League of Legends
+
+2020-11-10 06:40:18Z
+  Microsoft Teams v.1.3.00.28779
+
+2020-10-27 02:39:40Z
+  NVIDIA Install Application v.2.1002.344.0
+
+2020-10-27 02:39:38Z
+  NVIDIA GeForce NOW 2.0.24.94 v.2.0.24.94
+
+2020-09-29 20:09:25Z
+  Porofessor.gg v.2.5.41
+
+2020-09-16 18:55:06Z
+  VALORANT
+
+2020-09-12 21:33:02Z
+  Discord v.0.0.308
+
+----------------------------------------
+
+***TrayButtonClicked values***
+ShowDesktopButton                                                                 443
+StartButton                                                                       553
+NotificationCenterButton                                                          42
+SearchButton                                                                      97
+MultitaskingButton                                                                13
+KeyboardButton                                                                    1
+ClockButton                                                                       4
+
+----------------------------------------
